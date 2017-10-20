@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a632642ef14d9d0c74d128b37cbf0d97c7d808ad/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a632642ef14d9d0c74d128b37cbf0d97c7d808ad/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yuyh.easyadapter/library/1.0.0/e0f703a99b4bd606ac5ef2ad9065b468a6811d80/library-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

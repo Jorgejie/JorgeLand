@@ -1,0 +1,1 @@
+include ':app', ':library:common', ':library:irecyclerview', ':library:photoPicker', ':zxingScan', ':selectordialog', ':jcvideoplayer', ':oneKeyShareSDK', ':UserGuide'
